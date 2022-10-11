@@ -1,0 +1,81 @@
+@media screen and (min-width: 700px) {
+  #homeImage {
+    height: 740px;
+  }
+}
+
+/* @media screen and (max-width: 700px) {
+  #homeImage {
+    width: 300px;
+  }
+} */
+
+.custom-text {
+  color: black;
+  font-size: large;
+}
+
+.small-container {
+  margin-top: 40px;
+  width: 40%;
+}
+
+.tab-content-inner {
+  margin-top: 5.5rem;
+}
+
+.center {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.service-image {
+  width: 600px !important;
+  height: 300px !important;
+}
+
+.barber-image {
+  max-width: 400px;
+}
+
+.back-video {
+  width: 100%;
+}
+
+@media (min-aspect-ratio: 16/9) {
+  .back-video {
+    width: 100%;
+  }
+}
+
+.hero-container-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 99vw;
+  opacity: 70%;
+}
+
+.modern-it-company-clients-review-area {
+  margin-top: 10%;
+}
+
+.modern-it-company-top-area {
+  position: relative;
+}
+
+.wrapper {
+  display: flex;
+}
+
+#text {
+  padding: 0 10px 0 0;
+  margin: 0;
+}
+
+#cursor {
+  margin: 0;
+  font-size: 0.9em;
+  display: inline-block;
+}

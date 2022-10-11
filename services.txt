@@ -1,0 +1,58 @@
+Services:
+
+    Outsource IT support and staffing
+        Management of Specialized Software
+        Training Staff to use Tech Solutions
+        Inservice Training (CEU)
+
+    Infrastructure Network, Cloud, and Security Services
+        Monitor & Analyze Online Traffic
+        Manage Backup
+        Human Network Integration
+
+    Proprietary Software Development
+
+    Webpage Development/Rebranding
+        Build Functional Websites
+
+    CRM Integration and Customization
+        Manage User Access Rights
+
+    Digital Marketing
+
+    24/7 Help Desk
+    Microsoft 365 Drive
+
+
+Other 
+
+Version control (Git)
+Continuous Integration (CI)
+•Continuous Delivering (CD)
+•Azure services
+•Amazon Web Services (AWS)
+•Hosting services
+•PM tools (Jira, Trello, Azure DevOps)
+
+
+back - end
+
+•Python (Flask, Django)
+•C# (.NET framework,
+Core)
+•Node Js
+•PHP
+•SQL databases (MS SQL,
+MySQL, PostgreSQL)
+•No SQL databases(MFib)
+
+
+Front-end
+
+•Javascript
+•Jquery
+•React
+•Angular 2+
+•Ionic 3+
+•CSS / Sass
+•Vue 2+
